@@ -1,5 +1,5 @@
-# Fitur Pencarian Pada Code Igniter
-oprek fitur cari pada codeigniter , disini saya mencoba untuk mencari berdasarkan nama 
+# Fitur Pencarian dengan Code Igniter
+oprek fitur cari dengan framework codeigniter , disini saya mencoba untuk mencari berdasarkan nama 
 
 cara penggunaan source : 
 
